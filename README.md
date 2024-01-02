@@ -21,7 +21,7 @@ xxxxxx
   - Photo Box
     - Point it to a folder with pictures and it will show them as a slideshow with a fade effect
   - Stream Box
-    - Uses powershell scripts to scrape data for streaming services. The scripts launch when the skin is loaded and then once every 24 hours or so. They clear all existing images then download the newest ones, so if one of your boxes stops working it will just be a blank. This is my daily driver so I will probably load updates if the APIs change. You will have to register for access to the sites APIs and then input your keys to get them to work. Kind of a hassle but it's pretty cool once you have them set up. See instructions in the API .inc files in the @Resources\Stream Box folder.
+    - Uses powershell scripts to scrape data for streaming services. The scripts launch when the skin is loaded and then once every 24 hours or so. They clear all existing images then download the newest ones, so if one of your boxes stops working it will just be blank. This is my daily driver so I will probably load updates if the APIs change. You will have to register for access to the sites APIs and then input your keys to get them to work. Kind of a hassle but it's pretty cool once you have them set up. See instructions in the API .inc files in the @Resources\Stream Box folder.
     - Disney, Hulu, MAX, Netflix, Peacock, Prime
       - Displays new release TV and Movies from the movie database (https://www.themoviedb.org/)
     - Spotify
