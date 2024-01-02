@@ -5,7 +5,7 @@ Demo
 xxxxxx
 
 **Features**
--Skins
+- Skins
   - App Box
     - Launches apps, folders, skins, shortcut files, etc
     - Sweet rainbow effect
