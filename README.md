@@ -1,4 +1,4 @@
-# Boxes v1.1 Updates
+v1.1 Updates
 - Fixed start menu action issues, now pressing the start button window, hitting the hotkey, or activating an app all appropriatly toggle the menu up or down
 - Got rid of minimize window action when going into idle mode, it was triggering when watching movies which was super annoying
 
@@ -26,7 +26,7 @@ Rainmeter skin designed as a series of little windows. It was designed as a star
   - Stream Box
     - Uses powershell scripts to scrape data for streaming services. The scripts launch when the skin is loaded and then once every 24 hours or so. They clear all existing images then download the newest ones, so if one of your boxes stops working it will just be blank. This is my daily driver so I will probably load updates if the APIs change. You will have to register for access to the sites APIs and then input your keys to get them to work. Kind of a hassle but it's pretty cool once you have them set up. See instructions in the API .inc files in the @Resources\Stream Box folder.
     - Disney, Hulu, MAX, Netflix, Peacock, Prime
-      - Displays new release TV and Movies from the movie database (https://www.themoviedb.org/)
+      - Displays new release TV and Movies from the movie database (https://www.themoviedb.org/). Launches prepopulated search for title displayed when clicked. Not an instant direct to the movie/show but only a couple clicks... you'll need to adjust .ini if you use a browser other than Edge
     - Spotify
       - Displays new music releases directly from Spotify
     - Tumblr
