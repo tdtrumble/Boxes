@@ -1,1 +1,0 @@
-explorer.exe shell:AppsFolder
