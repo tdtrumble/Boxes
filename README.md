@@ -1,5 +1,9 @@
+# Boxes v1.1 Updates
+- Fixed start menu action issues, now pressing the start button window, hitting the hotkey, or activating an app all appropriatly toggle the menu up or down
+- Got rid of minimize window action when going into idle mode, it was triggering when watching movies which was super annoying
+
 # Boxes v1.0
-Rainmeter skin designed as a series of little windows. It's not designed to be super user friendly, there are no built in config pages. You will have to edit the .ini/.inc files to get everything working the way you want it. I did design the skins so that the majority of the code is hidden in .inc files that don't need altered and the skins themselves have anything that would need to be edited.
+Rainmeter skin designed as a series of little windows. It was designed as a start menu replacement. I really like the windows 10 tiles and when windows 11 got rid of them I went through a series of possible options only to finally realize I would need to build my own replacement. It's not designed to be super user friendly, there are no built in config pages. You will have to edit the .ini/.inc files to get everything working the way you want it. I did design the skins so that the majority of the code is hidden in .inc files that don't need altered and the skins themselves have anything that would need to be edited.
 
 [Skin Demo (youtube link)](https://youtu.be/Iwiw4Z1JzJo)
 
